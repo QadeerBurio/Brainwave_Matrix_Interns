@@ -1,6 +1,8 @@
 # 💸 Expense Tracker App
 
-A full-featured and beautifully designed **Expense Tracker Web App** built using the **MERN Stack (MongoDB, Express, React, Node.js)**. It helps users track income and expenses with visual insights, filters, authentication, and budget planning.
+A full-featured and beautifully designed **Expense Tracker Web App** 
+built using the **MERN Stack (MongoDB, Express, React, Node.js)**. 
+It helps users track income and expenses with visual insights, filters, authentication, and budget planning.
 
 ---
 
